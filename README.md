@@ -8,6 +8,15 @@
 
 <h1 align="center">Load App</h1>
 
+ where:
+ - width of the button gets animated from left to right;
+ - text gets changed based on different states of the button;
+ - circle gets be animated from 0 to 360 degrees
+
+A notification will be sent once the download is complete. When a user clicks on notification, the user lands on detail activity and the notification gets dismissed. In detail activity, the status of the download will be displayed and animated via MotionLayout upon opening the activity.
+
+
+
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/load-app?color=56BEB8">
 
@@ -46,7 +55,8 @@
 
 ## :dart: About ##
 
-Describe your project
+this is 3rd project in Advanced Android Kotlin Development NANODEGREE
+an app to download a file from Internet by clicking on a custom-built button
 
 ## :sparkles: Features ##
 
@@ -96,17 +106,6 @@ Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" targe
 &#xa0;
 
 <a href="#top">Back to top</a>
-
-
-# LoadApp
-
-this is 3rd project in Advanced Android Kotlin Development NANODEGREE
-an app to download a file from Internet by clicking on a custom-built button where:
- - width of the button gets animated from left to right;
- - text gets changed based on different states of the button;
- - circle gets be animated from 0 to 360 degrees
-
-A notification will be sent once the download is complete. When a user clicks on notification, the user lands on detail activity and the notification gets dismissed. In detail activity, the status of the download will be displayed and animated via MotionLayout upon opening the activity.
 
 
 
