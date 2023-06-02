@@ -4,37 +4,101 @@
 
 <h1 align="center">Load App</h1>
 
-
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/romanyn36/load-app?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/romanyn36/load-app?color=56BEB8">
+<!-- <a href="https://github.com/romanyn36/Blood_Bank_Management_System/graphs/contributors">
+
+  <img src="https://img.shields.io/github/contributors/romanyn36/Blood_Bank_Management_System.svg?style=for-the-badge" alt="Contributors" />
   
+</a> -->
+
+
+
+
+
+<!-- <a href="https://github.com/romanyn36/Blood_Bank_Management_System/issues">
+
+  <img src="https://img.shields.io/github/issues/romanyn36/Blood_Bank_Management_System.svg?style=for-the-badge" alt="issues" />
+</a> -->
+   <img alt="Github top language" src="https://img.shields.io/github/languages/top/romanyn36/load-app?color=56BEB8">
 <!-- 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/romanyn36/load-app?color=56BEB8"> -->
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/romanyn36/load-app?color=56BEB8">
+   -->
+
+  <!-- <img alt="Repository size" src="https://img.shields.io/github/repo-size/romanyn36/load-app?color=56BEB8"> -->
 
   <!-- <img alt="License" src="https://img.shields.io/github/license/romanyn36/load-app?color=56BEB8"> -->
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/romanyn36/load-app?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/romanyn36/load-app?color=56BEB8" /> -->
+<!-- <a href="https://github.com/romanyn36/Blood_Bank_Management_System/network/members"> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/romanyn36/load-app?color=56BEB8" /> -->
-</p>
+<!-- <img alt="Github forks" src="https://img.shields.io/github/forks/romanyn36/load-app.svg?color=56BEB8" /> -->
+
+  <!-- <img src="https://img.shields.io/github/forks/romanyn36/Blood_Bank_Management_System.svg?style=for-the-badge" alt="forks" /> -->
 
 
-
-<hr>
-
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
   
+
+<!-- stars -->
+  <a href="https://github.com/romanyn36/Blood_Bank_Management_System/stargazers">
+  
+  <img alt="Github stars" src="https://img.shields.io/github/stars/romanyn36/load-app?color=56BEB8" />
+
+  <!-- <img src="https://img.shields.io/github/stars/romanyn36/Blood_Bank_Management_System.svg?style=for-the-badge" alt="stars" /> -->
+
+</a>
+
+
+
+
+
+
 </p>
+<p align="center">
+ <a href="https://www.facebook.com/romanyn3/" target="_blank">
+  <img src="https://img.shields.io/badge/-Romani-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
+<a href="https://twitter.com/romanyn36" target="_blank">
+  <img src="https://img.shields.io/badge/-@romanyn36-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+
+<!-- <a href="https://www.instagram.com/romanyn36/" target="_blank">
+  <img src="https://img.shields.io/badge/-romanyn36-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+</a> -->
+
+
+<!-- <a href="mailto:youremail@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=mail.ru&logoColor=white" alt="Email" />
+</a> -->
+
+<a href="https://www.linkedin.com/in/romanyn36" target="_blank">
+  <img src="https://img.shields.io/badge/-@romanyn36-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/romanyn36" target="_blank">
+  <img src="https://img.shields.io/badge/-@romanyn36-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</p>
+
+
+
+<!-- TABLE OF CONTENTS -->
+
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#dart-about">About</a></li>
+    <li><a href="#sparkles-features">Features</a></li>
+    <li><a href="#rocket-technologies">Technologies</a></li>
+    <li><a href="#white_check_mark-requirements">Dependencies</a></li>
+    <li><a href="#checkered_flag-starting">Starting</a></li>
+    <li><a href="#busts_in_silhouette-collaborators">collaborators</a></li>
+    <li><a href="#email-contact">Contact</a></li>
+    <li><a href="#memo-license">License</a></li>
+
+  </ol>
 
 <br>
 
@@ -57,96 +121,95 @@ an app to download a file from Internet by clicking on a custom-built button
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
+- Animations
+- Custom views
+- Kotlin
+- Gradle
+- Android Studio
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+## :white_check_mark: Dependencies ##
 
-## :white_check_mark: Requirements ##
-
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+```
+implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.20"
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'androidx.core:core-ktx:1.3.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.0-rc1'
+    implementation 'com.google.android.material:material:1.0.0'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test:runner:1.1.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
+```
 
 ## :checkered_flag: Starting ##
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/load-app
+$ git clone https://github.com/romanyn36/load-app.git
 
 # Access
-$ cd load-app
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
+$ cd starter
 ```
+
+### :email: Contact ##
+<p align="center">
+ <a href="https://www.facebook.com/romanyn3/" target="_blank">
+  <img src="https://img.shields.io/badge/-Romani Nasser-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
+<!-- <a href="https://twitter.com/romanyn36" target="_blank">
+  <img src="https://img.shields.io/badge/-@romanyn36-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /> -->
+</a>
+
+<!-- <a href="https://www.instagram.com/romanyn36/" target="_blank">
+  <img src="https://img.shields.io/badge/-romanyn36-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+</a> -->
+
+
+<!-- <a href="mailto:youremail@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=mail.ru&logoColor=white" alt="Email" />
+</a> -->
+
+<!-- <a href="https://www.linkedin.com/in/romanyn36" target="_blank">
+  <img src="https://img.shields.io/badge/-@romanyn36-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a> -->
+
+<a href="https://github.com/romanyn36" target="_blank">
+  <img src="https://img.shields.io/badge/-@romanyn36-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</p>
+
+<!-- social links -->
+<p align="center">
+<a href="https://romanyn36.github.io" target="_blank">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
+
+<a href="https://www.linkedin.com/in/romanyn36/" target="_blank">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+
+<a href="https://dev.to/romanyn36" target="_blank">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+</a>
+
+<a href="https://twitter.com/romanyn36" target="_blank">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+</a>
+</p>
+
+
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details. [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/romanyn36/romanyn36/blob/main/License.md)
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made by <a href="https://github.com/romanyn36" target="_blank">Romani</a>
 
 &#xa0;
 
 <a href="#top">Back to top</a>
 
 
-
-## Getting Started
-
-Instructions for how to get a copy of the project running on your local machine.
-
-### Dependencies
-
-```
-    implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
-    implementation 'androidx.appcompat:appcompat:1.0.2'
-    implementation 'androidx.core:core-ktx:1.0.2'
-    testImplementation 'junit:junit:4.12'
-    androidTestImplementation 'androidx.test:runner:1.1.1'
-    androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
-```
-
-### Installation
-
-Step by step explanation of how to get a dev environment running.
-
-List out the steps:
-
-```
-1. Open Android Studio Application
-2. Choose "Open an existing Android Studio Project"
-3. In the opened finder find `nd940-c3-advanced-android-programming-project-starter` folder
-4. Click on the folder and select `starter` folder and click on "Open" button
-5. Once the project is opened in Android studio, go to File -> Sync Project with gradle files
-6. Click on "Run" button in Android Studio to install the project on the phone or emulator
-```
-
-## Testing
-
-Explain the steps needed to run any automated tests
-
-### Break Down Tests
-
-Explain what each test does and why
-
-```
-Examples here
-```
-## Project Instructions
-
-This section should contain all the student deliverables for this project.
-
-## Built With
-
-
-## License
-Please review the following [license agreement](https://bumptech.github.io/glide/dev/open-source-licenses.html)
