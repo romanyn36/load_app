@@ -1,45 +1,33 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Load App" />
-
-  &#xa0;
-
-  <a href="/images/demo.gif">Demo</a>
-</div>
+<p align="center">
+  <img src="/images/demo.gif" alt="Demo">
+</p>
 
 <h1 align="center">Load App</h1>
 
- where:
- - width of the button gets animated from left to right;
- - text gets changed based on different states of the button;
- - circle gets be animated from 0 to 360 degrees
-
-A notification will be sent once the download is complete. When a user clicks on notification, the user lands on detail activity and the notification gets dismissed. In detail activity, the status of the download will be displayed and animated via MotionLayout upon opening the activity.
-
-
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/load-app?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/romanyn36/load-app?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/load-app?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/romanyn36/load-app?color=56BEB8">
+  
+<!-- 
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/romanyn36/load-app?color=56BEB8"> -->
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/load-app?color=56BEB8">
+  <!-- <img alt="License" src="https://img.shields.io/github/license/romanyn36/load-app?color=56BEB8"> -->
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/load-app?color=56BEB8">
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/romanyn36/load-app?color=56BEB8" /> -->
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/load-app?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/romanyn36/load-app?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/load-app?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/load-app?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/romanyn36/load-app?color=56BEB8" /> -->
 </p>
 
-<!-- Status -->
 
-<!-- <h4 align="center"> 
+<h4 align="center"> 
 	🚧  Load App 🚀 Under construction...  🚧
 </h4> 
 
-<hr> -->
+<hr>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
