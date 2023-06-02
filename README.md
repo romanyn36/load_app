@@ -6,9 +6,9 @@
 
 <p align="center">
 
-<!-- <a href="https://github.com/romanyn36/Blood_Bank_Management_System/graphs/contributors">
+<!-- <a href="https://github.com/romanyn36/load_app/graphs/contributors">
 
-  <img src="https://img.shields.io/github/contributors/romanyn36/Blood_Bank_Management_System.svg?style=for-the-badge" alt="Contributors" />
+  <img src="https://img.shields.io/github/contributors/romanyn36/load_app.svg?style=for-the-badge" alt="Contributors" />
   
 </a> -->
 
@@ -16,36 +16,36 @@
 
 
 
-<!-- <a href="https://github.com/romanyn36/Blood_Bank_Management_System/issues">
+<!-- <a href="https://github.com/romanyn36/load_app/issues">
 
-  <img src="https://img.shields.io/github/issues/romanyn36/Blood_Bank_Management_System.svg?style=for-the-badge" alt="issues" />
+  <img src="https://img.shields.io/github/issues/romanyn36/load_app.svg?style=for-the-badge" alt="issues" />
 </a> -->
-   <img alt="Github top language" src="https://img.shields.io/github/languages/top/romanyn36/load-app?color=56BEB8">
+   <img alt="Github top language" src="https://img.shields.io/github/languages/top/romanyn36/load_app?color=56BEB8">
 <!-- 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/romanyn36/load-app?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/romanyn36/load_app?color=56BEB8">
    -->
 
-  <!-- <img alt="Repository size" src="https://img.shields.io/github/repo-size/romanyn36/load-app?color=56BEB8"> -->
+  <!-- <img alt="Repository size" src="https://img.shields.io/github/repo-size/romanyn36/load_app?color=56BEB8"> -->
 
-  <!-- <img alt="License" src="https://img.shields.io/github/license/romanyn36/load-app?color=56BEB8"> -->
+  <!-- <img alt="License" src="https://img.shields.io/github/license/romanyn36/load_app?color=56BEB8"> -->
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/romanyn36/load-app?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/romanyn36/load_app?color=56BEB8" /> -->
 
-<!-- <a href="https://github.com/romanyn36/Blood_Bank_Management_System/network/members"> -->
+<!-- <a href="https://github.com/romanyn36/load_app/network/members"> -->
 
-<!-- <img alt="Github forks" src="https://img.shields.io/github/forks/romanyn36/load-app.svg?color=56BEB8" /> -->
+<!-- <img alt="Github forks" src="https://img.shields.io/github/forks/romanyn36/load_app.svg?color=56BEB8" /> -->
 
-  <!-- <img src="https://img.shields.io/github/forks/romanyn36/Blood_Bank_Management_System.svg?style=for-the-badge" alt="forks" /> -->
+  <!-- <img src="https://img.shields.io/github/forks/romanyn36/load_app.svg?style=for-the-badge" alt="forks" /> -->
 
 
   
 
 <!-- stars -->
-  <a href="https://github.com/romanyn36/Blood_Bank_Management_System/stargazers">
+  <a href="https://github.com/romanyn36/load_app/stargazers">
   
-  <img alt="Github stars" src="https://img.shields.io/github/stars/romanyn36/load-app?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/romanyn36/load_app?color=56BEB8" />
 
-  <!-- <img src="https://img.shields.io/github/stars/romanyn36/Blood_Bank_Management_System.svg?style=for-the-badge" alt="stars" /> -->
+  <!-- <img src="https://img.shields.io/github/stars/romanyn36/load_app.svg?style=for-the-badge" alt="stars" /> -->
 
 </a>
 
@@ -94,7 +94,6 @@
     <li><a href="#rocket-technologies">Technologies</a></li>
     <li><a href="#white_check_mark-requirements">Dependencies</a></li>
     <li><a href="#checkered_flag-starting">Starting</a></li>
-    <li><a href="#busts_in_silhouette-collaborators">collaborators</a></li>
     <li><a href="#email-contact">Contact</a></li>
     <li><a href="#memo-license">License</a></li>
 
@@ -177,7 +176,9 @@ $ cd starter
 <a href="https://github.com/romanyn36" target="_blank">
   <img src="https://img.shields.io/badge/-@romanyn36-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
+<a href="https://stackoverflow.com/users/17348975/romani" target="_blank">
+  <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+</a>
 </p>
 
 <!-- social links -->
@@ -197,13 +198,14 @@ $ cd starter
 <a href="https://twitter.com/romanyn36" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
+
 </p>
 
 
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details. [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/romanyn36/romanyn36/blob/main/License.md)
+This project is under license from MIT. For more details. [Open Source](https://bumptech.github.io/glide/dev/open-source-licenses.html)
 
 
 Made by <a href="https://github.com/romanyn36" target="_blank">Romani</a>
