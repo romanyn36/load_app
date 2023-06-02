@@ -205,7 +205,7 @@ $ cd starter
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details. [Open Source](https://bumptech.github.io/glide/dev/open-source-licenses.html)
+This project is under  [Open Source](https://bumptech.github.io/glide/dev/open-source-licenses.html) license
 
 
 Made by <a href="https://github.com/romanyn36" target="_blank">Romani</a>
