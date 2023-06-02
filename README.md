@@ -43,7 +43,7 @@
 <!-- stars -->
   <a href="https://github.com/romanyn36/load_app/stargazers">
   
-  <img alt="Github stars" src="https://img.shields.io/github/stars/romanyn36/load_app?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/romanyn36/load_app?color=56BEB" />
 
   <!-- <img src="https://img.shields.io/github/stars/romanyn36/load_app.svg?style=for-the-badge" alt="stars" /> -->
 
