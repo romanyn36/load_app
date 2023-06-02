@@ -23,9 +23,6 @@
 </p>
 
 
-<h4 align="center"> 
-	🚧  Load App 🚀 Under construction...  🚧
-</h4> 
 
 <hr>
 
@@ -36,7 +33,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  
 </p>
 
 <br>
@@ -48,9 +45,14 @@ an app to download a file from Internet by clicking on a custom-built button
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+- :heavy_check_mark: width of the button gets animated from left to right;\
+- :heavy_check_mark: text gets changed based on different states of the button;\
+- :heavy_check_mark: circle gets be animated from 0 to 360 degrees;
+- :heavy_check_mark:A notification will be sent once the download is complete. When a user clicks on notification, the user lands on detail activity and the notification gets dismissed. In detail activity, the status of the download will be displayed and animated via MotionLayout upon opening the activity.
+ 
+
+
+
 
 ## :rocket: Technologies ##
 
@@ -145,10 +147,6 @@ This section should contain all the student deliverables for this project.
 
 ## Built With
 
-* [Android Studio](https://developer.android.com/studio) - Default IDE used to build android apps
-* [Kotlin](https://kotlinlang.org/) - Default language used to build this project
-
-Include all items used to build project.
 
 ## License
 Please review the following [license agreement](https://bumptech.github.io/glide/dev/open-source-licenses.html)
