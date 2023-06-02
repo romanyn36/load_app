@@ -3,7 +3,7 @@
 
   &#xa0;
 
-  <!-- <a href="/images/demo.gif">Demo</a> -->
+  <a href="/images/demo.gif">Demo</a>
 </div>
 
 <h1 align="center">Load App</h1>
